@@ -1,0 +1,130 @@
+.container {
+	width: 720px;
+	background-image: url('img/full.jpg');
+	background-repeat: repeat;
+}
+.blog {
+	background-color: black;
+}
+h2 {
+	padding: 0;
+	font-weight: bolder;
+	color: white;
+	border-top: 5px solid #ffef00;
+}
+
+h3{
+	background-color: yellow;
+	color: black;
+}
+.blog p{
+	color:#ffffff;
+}
+.surlignage {
+	font-weight:bold;
+	color:#ffef00		;
+}
+.permalink {
+	border-left: 5px solid #ffef00;
+}
+.centered {
+   width:400px;
+   border-top: 2px solid #ffef00;
+   border-bottom: 2px solid #ffef00;  
+   background-color: #272727;
+   color:#ffffff;
+}
+.paipe {
+	font-weight: bolder;
+	color:#ffffff;
+}
+ul {
+	list-style: none;
+	margin-left: 0;
+}
+.imagemiddle{
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.titre{
+	padding-right: 0px;
+	margin-right: 0px;
+}
+.menutitre {
+	color: #ffffff;
+	font-weight: bolder;
+	font-size: 1.3em;
+	padding-right: 0px;
+}
+.updates {
+	padding-left: 10px;
+	padding-right: 10px;
+	width:210px;
+}
+.updates h3 {
+	border-left: 5px solid #ffef00;
+	border-right:5px solid #ffef00;
+	color:#ec155b;
+}
+.tabupdates {
+	padding-bottom: 100px;
+	line-height: 25px;
+	padding-left: 10px;
+	border-left: 5px solid #ffef00;
+	border-right:5px solid #ffef00;
+	border-bottom: 5px solid #ffef00;
+	color:#ffffff;
+	font-weight: bolder;
+}
+.sideitem {
+	padding-left: 10px;
+	padding-right: 10px;
+	width: 210px;
+}
+.sideitem h3 {
+	border-left: 5px solid #ffef00;
+	border-right:5px solid #ffef00;
+	color:#ec155b;
+}
+.tabsideitem {
+	padding-bottom: 100px;
+	line-height: 25px;
+	padding-left: 10px;
+	border-left: 5px solid #ffef00;
+	border-right:5px solid #ffef00;
+	border-bottom: 5px solid #ffef00;
+	color:#ffffff;
+	font-weight: bolder;
+}
+article table{
+	
+	text-align: left;
+	border-collapse: collapse;
+}
+
+table tr td{
+	width: 150px;
+	border-top: 1px solid grey;
+	background-color: #272727;
+	color: grey;
+	padding: 10px;
+	vertical-align: middle;
+	align-items: center;
+}
+.tableau{
+	text-align: center;
+	margin: auto;
+}
+.tableaufooter {
+	margin-top: 20px;
+}
+footer{
+	text-align: center;
+	background-color: black;
+	clear: both;
+	margin:0 10px;
+	padding-top: 10px;
+}
+.imagefooter {
+	max-width: 266px;
+}
